@@ -1,0 +1,10 @@
+EQUIPO 8 — GITHUB PAGES
+
+1. Crear un repositorio público en GitHub.
+2. Subir a la raíz: index.html, assets (carpeta completa), README.md y .nojekyll.
+3. Abrir Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4. Copiar la URL que GitHub Pages indique cuando el sitio esté publicado.
+5. Insertar esa URL en Google Sites como enlace o mediante Insertar > Incorporar > URL.
+
+NOTA: No subir solo index.html. Sus imágenes, CSS y JavaScript están en assets/.
+Antes de publicar, verificar los permisos de las fotografías y los documentos externos.
